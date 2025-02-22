@@ -1,0 +1,21 @@
+body{
+    margin:0;
+    padding: 0;
+    width: 800px;
+    box-sizing: border-box;
+    background-color: #ccc;
+    box-shadow: px 0px 5px 10px;
+}
+main{
+    width: 700px;
+    margin:50px auto;
+    background-color: #fff;
+    border: 2px solid #000;
+}
+#paragraph{
+    
+    color:rgb(53, 170, 68)
+}
+#paragraph1{
+    color:skyblue;
+}
